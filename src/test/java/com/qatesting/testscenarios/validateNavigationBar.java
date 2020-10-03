@@ -47,7 +47,7 @@ public void initialize() throws IOException
 	    Assert.assertTrue(l.getNavigationBar().isDisplayed());
 	    log.info("Navigation Bar is displayed");
 		 System.out.println("Test completed");
-	 //   Assert.assertFalse(false);
+		 System.out.println("The Navigation bar is validated ........");
 		
 		}
 	
@@ -56,6 +56,7 @@ public void initialize() throws IOException
 	{
 		
 		driver.quit();
+		System.out.println("The browser is teared down succesfully .......");
 	
 		
 	}

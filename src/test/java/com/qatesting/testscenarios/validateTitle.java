@@ -44,6 +44,7 @@ public class validateTitle extends base{
 		Assert.assertEquals(l.getTitle().getText(), "FEATURED COURSES");
 		 log.info("Successfully validated Text message");
 		 System.out.println("Test completed");
+		 System.out.println("The title is validated .......no error exists");
 		 
 	
 		

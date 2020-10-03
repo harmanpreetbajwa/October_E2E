@@ -1,0 +1,7 @@
+23:36:18.059 [main] INFO  com.qatesting.utilities.base - Navigated to Home page
+23:36:18.741 [main] INFO  com.qatesting.utilities.base - Navigation Bar is displayed
+23:36:19.132 [main] INFO  com.qatesting.utilities.base - Successfully validated Text message
+23:36:26.368 [main] INFO  com.qatesting.utilities.base - Restrcited User
+23:36:31.458 [main] INFO  com.qatesting.utilities.base - Non restricted user
+23:37:39.543 [main] INFO  com.qatesting.utilities.base - Driver is initialized
+23:37:42.902 [main] INFO  com.qatesting.utilities.base - Navigated to Home page

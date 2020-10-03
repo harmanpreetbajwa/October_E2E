@@ -57,6 +57,7 @@ public class HomePage extends base{
 	public void teardown()
 	{
 		driver.quit();
+		System.out.println("driver quitted");
 		}
 
 	
